@@ -1,4 +1,4 @@
-# terminal_app_license
+# license key for terminal_app (example)
 
 pip install npyscreen
 
