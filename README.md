@@ -30,7 +30,7 @@ else:
     print("Invalid license key. Access denied")
  ```
   
-my_app.py
+example
 ```    
 import npyscreen
 
