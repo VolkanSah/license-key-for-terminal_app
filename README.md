@@ -30,7 +30,7 @@ else:
     
     ```
   
-    example function after
+my_app.py
     
     ```    
 import npyscreen
