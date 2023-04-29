@@ -30,8 +30,7 @@ else:
  ```
   
 my_app.py
-    
-    ```    
+```    
 import npyscreen
 
 class MyApp(npyscreen.NPSAppManaged):
