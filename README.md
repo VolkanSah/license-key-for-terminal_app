@@ -27,8 +27,7 @@ if check_license_key(entered_license_key):
     function2()
 else:
     print("Invalid license key. Access denied")
-    
-    ```
+ ```
   
 my_app.py
     
@@ -49,5 +48,4 @@ class MainForm(npyscreen.Form):
 if __name__ == "__main__":
     my_app = MyApp()
     my_app.run()
-    
-    ```    
+ ```    
